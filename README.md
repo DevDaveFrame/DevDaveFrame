@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on a music-centered chat app called Bandter
-- 🌱 I’m currently learning GraphQL 
+- 🌱 I’m currently learning GraphQL and Node.js/Express.js
 - 👯 I’m looking to collaborate on anything and everything music and ed-tech.
 - 💬 Ask me about my recent experience with Flatiron School!
 - 📫 How to reach me: I accept owls, ravens, and carrier pigeons, but email is probably fastest.
