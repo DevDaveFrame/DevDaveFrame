@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 🌎, I'm Dave 👋
 
 <!--
 **DevDaveFrame/DevDaveFrame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a music-centered chat app called Bandter
+- 🌱 I’m currently learning GraphQL 
+- 👯 I’m looking to collaborate on anything and everything music and ed-tech.
+- 💬 Ask me about my recent experience with Flatiron School!
+- 📫 How to reach me: I accept owls, ravens, and carrier pigeons, but email is probably fastest.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Besides code, I love the outdoors, climbing especially. Ask me about the time I had to run from an Alpine thunderstorm. 
+
+[![Dave's github stats](https://github-readme-stats.vercel.app/api?username=DevDaveFrame&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
