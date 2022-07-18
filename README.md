@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a personal portfolio and blog site using Next.js.
-- 🌱 I’m currently Rust! (slowly)
+- 🌱 I’m currently learning Rust! (slowly)
 - 👯 I’m looking to collaborate on anything and everything writing, ed-tech, or image processing.
 - 💬 Ask me about my recent experience moving across the country.
 - 📫 How to reach me: I accept owls, ravens, and carrier pigeons, but email is probably fastest.
