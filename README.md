@@ -1,4 +1,4 @@
-## Hello World 🌎, I'm Dave 👋 
+## 👋🌎 Hi, I'm Dave 🌎👋
 <!--
 **DevDaveFrame/DevDaveFrame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a personal portfolio and blog site using Next.js.
-- 🌱 I’m currently learning Rust! (slowly)
-- 👯 I’m looking to collaborate on anything and everything writing, ed-tech, or image processing.
-- 💬 Ask me about my recent experience moving across the country.
-- 📫 How to reach me: I accept owls, ravens, and carrier pigeons, but email is probably fastest.
+- Teacher -> Writer -> Developer
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Besides code, I love the outdoors, climbing especially. Ask me about the time I had to run from an Alpine thunderstorm. 
+- 👷 Software Engineer II @ Industry Dive, building self-service marketing tools and data pipelines in Python & React
+- 🌱 I'm learning all the time, recently about networking and pentesting
+- 🤝 I would love to collaborate on a Python project in ed-tech, particularly writing tools.
+- 💬 Fun fact: Besides code, I love the outdoors, climbing especially. Ask me about the time I had to run from an Alpine thunderstorm. 
 
-[![Dave's github stats](https://github-readme-stats.vercel.app/api?username=DevDaveFrame&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Dave's github stats](https://github-readme-stats.vercel.app/api?username=DevDaveFrame&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
