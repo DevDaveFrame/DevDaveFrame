@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 -->
 
 - Teacher -> Writer -> Developer
-- 😄 Pronouns: He/Him
-- 👷 Software Engineer II @ Industry Dive, building self-service marketing tools and data pipelines in Python & React
-- 🌱 I'm learning all the time, recently about networking and pentesting
-- 🤝 I would love to collaborate on a Python project in ed-tech, particularly writing tools.
-- 💬 Fun fact: Besides code, I love the outdoors, climbing especially. Ask me about the time I had to run from an Alpine thunderstorm. 
-
+- 👷 Senior Software Engineer @ Informa TechTarget, building data pipelines 
+- 🌱 I'm learning all the time. Recently, I've been building in Go and *loving it*. 
+- 🤝 I would love to collaborate on a developer tools, audio encoding, D&D, or TUIs.
+- 💬 Fun fact: Besides code, I'm into music, games (TT, RP, or PC), and retro emulation. Also, I write sometimes.
 <!-- [![Dave's github stats](https://github-readme-stats.vercel.app/api?username=DevDaveFrame&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+- p.s., don't judge my heat map, I have a two-year-old and we use gitlab at work
