@@ -1,23 +1,4 @@
-## 👋🌎 Hi, I'm Dave 🌎👋
-<!--
-**DevDaveFrame/DevDaveFrame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- Teacher -> Writer -> Developer
-- 👷 Senior Software Engineer @ Informa TechTarget, building data pipelines 
-- 🌱 I'm learning all the time. Recently, I've been building in Go and *loving it*. 
-- 🤝 I would love to collaborate on a developer tools, audio encoding, D&D, or TUIs.
-- 💬 Fun fact: Besides code, I'm into music, games (TT, RP, or PC), and retro emulation. Also, I write sometimes.
-<!-- [![Dave's github stats](https://github-readme-stats.vercel.app/api?username=DevDaveFrame&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-- p.s., don't judge my heat map, I have a two-year-old and we use gitlab at work
+## Dave Frame 
+- 👷 Senior Software Engineer @ Informa TechTarget, building data pipelines and developer tools in Python and Go.
+- 🤝 I would love to collaborate on a developer tools, TUIs, image processing, or TTRPG tools.
+- 💬 Fun fact: I'm also into music and retro emulation, and I write sometimes.
